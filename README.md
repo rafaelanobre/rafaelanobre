@@ -3,10 +3,10 @@
 
 👩🏻‍💻 Embarking on a journey to become a full-stack JavaScript developer through a 9-month bootcamp
 
-🎓 Currently exploring technologies like <b>Node.JS</b> and soon-to-be <b>mySQL</b> at Driven's bootcamp, where I'm expanding my knowledge and sharpening my hard and soft skills along the way.
+🎓 Currently exploring technologies like <b>PostgreSQL</b> and soon-to-be <b>TypeScript</b> at Driven's bootcamp, where I'm expanding my knowledge and sharpening my hard and soft skills along the way.
 
 ### My Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,mongodb,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
   
 💬 I'm constantly seeking new challenges and opportunities. Let's connect?
 
@@ -29,10 +29,10 @@
 
 👩🏻‍💻 Embarquei em um bootcamp de 9 meses para me tornar uma desenvolvedora full-stack JavaScript.
 
-🎓 Atualmente, estou estudando Node.JS no bootcamp da Driven, ampliando minha base de conhecimento e habilidades técnicas e comportamentais.
+🎓 Atualmente, estou estudando PostgreSQL no bootcamp da Driven, ampliando minha base de conhecimento e habilidades técnicas e comportamentais.
 
 ### Minhas habilidades:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,mongodb,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
 
 🌟 Estou sempre em busca de novos desafios e oportunidades. Vamos nos conectar?
 
