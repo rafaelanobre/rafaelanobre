@@ -6,7 +6,7 @@
 🎓 Currently exploring technologies like <b>TypeScript</b> at Driven's bootcamp, where I'm expanding my knowledge and sharpening my hard and soft skills along the way.
 
 ### My Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
   
 💬 I'm constantly seeking new challenges and opportunities. Let's connect?
 
@@ -16,9 +16,6 @@
 </a>
 <a href="https://www.linkedin.com/in/rafaela-nobre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rafanobredev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanobre&layout=compact&theme=dracula"/>
@@ -32,7 +29,7 @@
 🎓 Atualmente, estou estudando TypeScript no bootcamp da Driven, ampliando minha base de conhecimento e habilidades técnicas e comportamentais.
 
 ### Minhas habilidades:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
 
 🌟 Estou sempre em busca de novos desafios e oportunidades. Vamos nos conectar?
 
@@ -42,7 +39,4 @@
 </a>
 <a href="https://www.linkedin.com/in/rafaela-nobre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rafanobredev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
