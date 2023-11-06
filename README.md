@@ -89,9 +89,6 @@
 🎓 Atualmente, estou estudando Vue.js, enquanto eu aperfeiçoo minhas habilidades técnicas e comportamentais.
 
 ### Minhas habilidades:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,styledcomponents,nodejs,express,mongodb,postgresql,git,cloudflare,vscode,figma,ps,wordpress)](https://skills.thijs.gg)
-
-### Minhas habilidades:
 
 #### Linguagens de Programação:
 <div align="left">
