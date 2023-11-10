@@ -1,7 +1,7 @@
 ### Hey there, I'm Rafaela 👋
 ## From designer and web designer to full stack developer
 
-🎓 Currently exploring technologies like <b>Vue.js</b>, while I'm expanding my knowledge and sharpening my hard and soft skills along the way.
+🎓 Currently exploring technologies like TypeScript and testing, while expanding my knowledge and improving my technical and soft skills along the way.
 
 ### My Languages and Tools:
 
