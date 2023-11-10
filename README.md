@@ -58,9 +58,6 @@
   <img src="https://skills.thijs.gg/icons?i=ps" title="Photoshop">
   <img width="1" />
   <img src="https://skills.thijs.gg/icons?i=wordpress" title="Wordpress">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=cloudflare" title="Cloudflare">
-  <img width="1" />
 </div>
 
 </br>
