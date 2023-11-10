@@ -7,59 +7,59 @@
 
 #### Programming Languages:
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=js" alt="JavaScript">
+  <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=typescript" alt="TypeScript">
+  <img src="https://skills.thijs.gg/icons?i=typescript" title="TypeScript">
 </div>
 
 #### Front-End:
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=html" alt="HTML">
+  <img src="https://skills.thijs.gg/icons?i=html" title="HTML">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=css" alt="CSS">
+  <img src="https://skills.thijs.gg/icons?i=css" title="CSS">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=react" alt="React">
+  <img src="https://skills.thijs.gg/icons?i=react" title="React">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=next" alt="Next">
+  <img src="https://skills.thijs.gg/icons?i=next" title="Next">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=bootstrap" alt="Bootstrap">
+  <img src="https://skills.thijs.gg/icons?i=bootstrap" title="Bootstrap">
 </div>
 
 #### Back-End:
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=nodejs" alt="Node.js">
+  <img src="https://skills.thijs.gg/icons?i=nodejs" title="Node.js">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=express" alt="Express">
+  <img src="https://skills.thijs.gg/icons?i=express" title="Express">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=jest" alt="Jest">
+  <img src="https://skills.thijs.gg/icons?i=jest" title="Jest">
 </div>
 
 #### Databases:
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB">
+  <img src="https://skills.thijs.gg/icons?i=mongodb" title="MongoDB">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=postgresql" alt="PostgreSQL">
+  <img src="https://skills.thijs.gg/icons?i=postgresql" title="PostgreSQL">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=prisma" alt="Prisma">
+  <img src="https://skills.thijs.gg/icons?i=prisma" title="Prisma">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=redis" alt="Redis">
+  <img src="https://skills.thijs.gg/icons?i=redis" title="Redis">
 </div>
 
 #### Software and Tools:
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=linux" alt="Linux">
+  <img src="https://skills.thijs.gg/icons?i=linux" title="Linux">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=git" alt="Git">
+  <img src="https://skills.thijs.gg/icons?i=git" title="Git">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=vscode" alt="VS Code">
+  <img src="https://skills.thijs.gg/icons?i=vscode" title="VS Code">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=figma" alt="Figma">
+  <img src="https://skills.thijs.gg/icons?i=figma" title="Figma">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=ps" alt="Photoshop">
+  <img src="https://skills.thijs.gg/icons?i=ps" title="Photoshop">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=wordpress" alt="Wordpress">
+  <img src="https://skills.thijs.gg/icons?i=wordpress" title="Wordpress">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=cloudflare" alt="Cloudflare">
+  <img src="https://skills.thijs.gg/icons?i=cloudflare" title="Cloudflare">
   <img width="1" />
 </div>
 
