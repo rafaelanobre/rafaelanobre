@@ -1,63 +1,60 @@
 ### Hey there, I'm Rafaela 👋
 ## From designer and web designer to full stack developer
 
-🎓 Currently exploring technologies like TypeScript and testing, while expanding my knowledge and improving my technical and soft skills along the way.
+🎓 Currently exploring new technologies, while expanding my knowledge and improving my technical and soft skills along the way.
 
-### My Languages and Tools:
+### My Languages and Tools
 
-#### Programming Languages:
+#### Programming Languages
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" title="JavaScript">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=typescript" title="TypeScript">
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" title="TypeScript">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" title="Python">
 </div>
 
-#### Front-End:
+#### Front-End Development
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=html" title="HTML">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" title="React">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=css" title="CSS">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML" title="HTML">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=react" title="React">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=next" title="Next">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=bootstrap" title="Bootstrap">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="CSS" title="CSS">
 </div>
 
-#### Back-End:
+#### Back-End Development
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=nodejs" title="Node.js">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" title="Node.js">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=express" title="Express">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=jest" title="Jest">
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="Express" title="Express">
 </div>
 
-#### Databases:
+#### Databases
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=mongodb" title="MongoDB">
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" title="MongoDB">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=postgresql" title="PostgreSQL">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=prisma" title="Prisma">
-  <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=redis" title="Redis">
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" title="PostgreSQL">
 </div>
 
-#### Software and Tools:
+#### Tools and Platforms
 <div align="left">
-  <img src="https://skills.thijs.gg/icons?i=linux" title="Linux">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" title="Git">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=git" title="Git">
+  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" alt="VS Code" title="VS Code">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=vscode" title="VS Code">
+  <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab" alt="Google Colab" title="Google Colab">
+</div>
+
+#### Other Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" title="Linux">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=figma" title="Figma">
+  <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma" title="Figma">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=ps" title="Photoshop">
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop" title="Photoshop">
   <img width="1" />
-  <img src="https://skills.thijs.gg/icons?i=wordpress" title="Wordpress">
+  <img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress" alt="Wordpress" title="Wordpress">
 </div>
 
 </br>
