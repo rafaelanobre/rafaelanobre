@@ -1,9 +1,12 @@
-### Hey there, I'm Rafaela 👋
-## From designer and web designer to full stack developer
+## Hello, I'm Rafaela 👋
+### I'm a software engineer with full-stack development skills, currently focusing on building back-end solutions with Kotlin.
+### I also enjoy automating processes and creating dashboards with Python.
 
-🎓 Currently exploring new technologies, while expanding my knowledge and improving my technical and soft skills along the way.
+I have a lot of interest but little experience in other areas of technology, such as machine learning and virtual reality.
 
-### My Languages and Tools
+I'm a hobby person! From learning new languages ​​and gaming to cooking and knitting, I'm always willing to try new creative hobbies.
+
+## My Languages and Tools
 
 #### Programming Languages
 <div align="left">
@@ -16,6 +19,8 @@
 
 #### Front-End Development
 <div align="left">
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js" alt="Next" title="Next">
+  <img width="1" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" title="React">
   <img width="1" />
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML" title="HTML">
@@ -28,6 +33,8 @@
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" title="Node.js">
   <img width="1" />
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="Express" title="Express">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" alt="Fast API" title="Fast API">
 </div>
 
 #### Databases
@@ -37,30 +44,18 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" title="PostgreSQL">
 </div>
 
-#### Tools and Platforms
-<div align="left">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" title="Git">
-  <img width="1" />
-  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" alt="VS Code" title="VS Code">
-  <img width="1" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab" alt="Google Colab" title="Google Colab">
-</div>
-
 #### Other Tools
 <div align="left">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" title="Linux">
   <img width="1" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab" alt="Google Colab" title="Google Colab">
+  <img width="1" />
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma" title="Figma">
   <img width="1" />
   <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop" title="Photoshop">
-  <img width="1" />
-  <img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress" alt="Wordpress" title="Wordpress">
 </div>
 
-</br>
-💬 I'm constantly seeking new challenges and opportunities. Let's connect?
-
-### 📧 Get in touch with me:
+## Get in touch with me:
 <a href="mailto:raafanobre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
