@@ -1,10 +1,9 @@
-## Hello, I'm Rafaela 👋
-### I'm a software engineer with full-stack development skills, currently focusing on building back-end solutions with Kotlin.
-### I also enjoy automating processes and creating dashboards with Python.
+## Hello, I'm Rafaela
+### I'm a software engineer with full-stack development skills, currently focusing on building back-end solutions using Kotlin and expanding my knowledge in System Design.
 
-I have a lot of interest but little experience in other areas of technology, such as machine learning and virtual reality.
+I have a strong interest in various areas of technology, including machine learning, blockchain, and virtual reality.
 
-I'm a hobby person! From learning new languages ​​and gaming to cooking and knitting, I'm always willing to try new creative hobbies.
+In my free time, I enjoy a variety of hobbies! From learning new languages and gaming to cooking and knitting, I'm always eager to explore new creative activities.
 
 ## My Languages and Tools
 
@@ -15,6 +14,9 @@ I'm a hobby person! From learning new languages ​​and gaming to cooking and 
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" title="TypeScript">
   <img width="1" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" title="Python">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" alt="Kotlin" title="Kotlin">
+
 </div>
 
 #### Front-End Development
@@ -35,6 +37,8 @@ I'm a hobby person! From learning new languages ​​and gaming to cooking and 
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="Express" title="Express">
   <img width="1" />
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" alt="Fast API" title="Fast API">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring" alt="Spring Boot" title="Spring Boot">
 </div>
 
 #### Databases
@@ -42,17 +46,21 @@ I'm a hobby person! From learning new languages ​​and gaming to cooking and 
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" title="MongoDB">
   <img width="1" />
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" title="PostgreSQL">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" alt="Redis" title="Redis">
 </div>
 
 #### Other Tools
 <div align="left">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" title="Linux">
   <img width="1" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" title="Docker">
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws" alt="AWS" title="AWS">
+  <img width="1" />
   <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab" alt="Google Colab" title="Google Colab">
   <img width="1" />
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma" title="Figma">
-  <img width="1" />
-  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop" title="Photoshop">
 </div>
 
 ## Get in touch with me:
