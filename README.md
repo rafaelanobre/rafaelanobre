@@ -1,9 +1,7 @@
 ## Hello, I'm Rafaela
-### I'm a software engineer with full-stack development skills, currently focusing on building back-end solutions using Kotlin and expanding my knowledge in System Design.
+### I'm a software engineer with full-stack development skills, currently focusing on building back-end solutions and expanding my knowledge in System Design.
 
 I have a strong interest in various areas of technology, including machine learning, blockchain, and virtual reality.
-
-In my free time, I enjoy a variety of hobbies! From learning new languages and gaming to cooking and knitting, I'm always eager to explore new creative activities.
 
 ## My Languages and Tools
 
