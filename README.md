@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelanobre&theme=radical&hide_border=true" alt="rafaelanobre's Streak" />
+</div>
+
 # Rafaela Nobre | AI Product Engineer
 ### Building efficient, scalable AI-powered products from concept to production.
 
@@ -74,6 +78,9 @@ My toolkit is focused on building robust, production-ready applications. I have 
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanobre&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="rafaelanobre's Top Languages" />
+</div>
 
 ---
 
