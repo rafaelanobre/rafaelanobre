@@ -2,7 +2,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelanobre&theme=radical&hide_border=true" alt="rafaelanobre's Streak" />
 </div>
 
-# Rafaela Nobre | AI Product Engineer
+# Rafaela Nobre | Software Engineer
 ### Building efficient, scalable AI-powered products from concept to production.
 
 <div align="center">
