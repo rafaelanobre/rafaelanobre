@@ -16,17 +16,11 @@
 
 ---
 
-I'm a Software Engineer who specializes in Python to build impactful AI products. My passion lies in architecting reliable, scalable systems that solve complex problems.
-
-My experience as a founding engineer at an AI edtech startup involved designing and building the core AI-powered features from the ground up. I designed and built an AI orchestrator with complex data processing, LLMs, AI models, and third-party services.
-
-I thrive in environments where I can take ownership of the full development lifecycle to deliver pragmatic and impactful solutions.
+I'm a Software Engineer who loves to code and create impactful solutions.
 
 ---
 
 ## My Tech Stack
-
-My toolkit is focused on building robust, production-ready applications. I have deep experience across the stack, from creating intuitive user interfaces to architecting scalable backend systems and AI integrations.
 
 <table>
   <tr>
